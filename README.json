@@ -1,0 +1,1182 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free Programming Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:11:06Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 394288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome SEO tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-24T08:04:53Z",
+            "owner": "serpapi",
+            "repo": "awesome-seo-tools",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Z-Python-Projects",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Repositories Supporting First-Timers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JavaScript30",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-01T07:32:38Z",
+            "owner": "wesbos",
+            "repo": "JavaScript30",
+            "stars": 29233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You-Dont-Need-JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-04T16:56:23Z",
+            "owner": "you-dont-need",
+            "repo": "You-Dont-Need-JavaScript",
+            "stars": 20574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T18:01:07Z",
+            "owner": "Mrinank-Bhowmick",
+            "repo": "python-beginner-projects",
+            "stars": 2573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HacktoberFest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-04T07:34:56Z",
+            "owner": "reactplay",
+            "repo": "react-play",
+            "stars": 1599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javascript-mini-projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-25T05:44:11Z",
+            "owner": "thinkswell",
+            "repo": "javascript-mini-projects",
+            "stars": 1518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinksHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:49:42Z",
+            "owner": "rupali-codes",
+            "repo": "LinksHub",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reduced.to",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-04-25T16:46:53Z",
+            "owner": "origranot",
+            "repo": "reduced.to",
+            "stars": 705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funny Algorithms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-05T15:36:25Z",
+            "owner": "ReciHub",
+            "repo": "FunnyAlgorithms",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-16T03:23:29Z",
+            "owner": "Nikhil-2002",
+            "repo": "development_Hactoberfest2025",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basic Python projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T13:09:19Z",
+            "owner": "kishanrajput23",
+            "repo": "Coding-Buddies-Community-Contributions",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-language algorithms repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-22T10:49:03Z",
+            "owner": "Aditya-devp",
+            "repo": "Contributershub",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-questions",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Repositories Coding for Beginners"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:18:54Z",
+            "owner": "appwrite",
+            "repo": "appwrite",
+            "stars": 56905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperswitch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T06:11:47Z",
+            "owner": "juspay",
+            "repo": "hyperswitch",
+            "stars": 43469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Novu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:19:13Z",
+            "owner": "novuhq",
+            "repo": "novu",
+            "stars": 39491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tooljet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T06:00:40Z",
+            "owner": "ToolJet",
+            "repo": "ToolJet",
+            "stars": 38613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clickvote",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:13:08Z",
+            "owner": "gitroomhq",
+            "repo": "postiz-app",
+            "stars": 34607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdonisJS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T07:20:23Z",
+            "owner": "adonisjs",
+            "repo": "core",
+            "stars": 19080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:27:44Z",
+            "owner": "wasp-lang",
+            "repo": "wasp",
+            "stars": 18677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocsGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:06:01Z",
+            "owner": "arc53",
+            "repo": "DocsGPT",
+            "stars": 18213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amplication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T13:46:55Z",
+            "owner": "amplication",
+            "repo": "amplication",
+            "stars": 16015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Formbricks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:07:53Z",
+            "owner": "formbricks",
+            "repo": "formbricks",
+            "stars": 12765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Illacloud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T02:22:32Z",
+            "owner": "illacloud",
+            "repo": "illa-builder",
+            "stars": 12309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:53:46Z",
+            "owner": "teamhanko",
+            "repo": "hanko",
+            "stars": 9004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALVR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T07:47:53Z",
+            "owner": "alvr-org",
+            "repo": "ALVR",
+            "stars": 7812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALDA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T23:51:18Z",
+            "owner": "alda-lang",
+            "repo": "alda",
+            "stars": 5936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devtron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:37:04Z",
+            "owner": "devtron-labs",
+            "repo": "devtron",
+            "stars": 5575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aliucord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T22:58:17Z",
+            "owner": "Aliucord",
+            "repo": "Aliucord",
+            "stars": 4836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrowdDotDev",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:23:26Z",
+            "owner": "linuxfoundation",
+            "repo": "crowd.dev",
+            "stars": 3367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Configu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-17T17:08:29Z",
+            "owner": "configu",
+            "repo": "configu",
+            "stars": 1681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catima",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T02:53:16Z",
+            "owner": "CatimaLoyalty",
+            "repo": "Android",
+            "stars": 1658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figma Plugin Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-17T21:26:52Z",
+            "owner": "figma",
+            "repo": "community-resources",
+            "stars": 830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React.js - Web_App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-01T16:52:54Z",
+            "owner": "UmangDalvadi",
+            "repo": "Text-Utiles-ReactApp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React.js - Chrome_Extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-16T08:35:24Z",
+            "owner": "UmangDalvadi",
+            "repo": "WorkLikeElon-Lolgorithm",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Repositories for intermediate/Advanced Coders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "app-ideas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-11T14:51:21Z",
+            "owner": "florinpop17",
+            "repo": "app-ideas",
+            "stars": 96729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "First contributions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T05:01:19Z",
+            "owner": "firstcontributions",
+            "repo": "first-contributions",
+            "stars": 55459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest2023(fineanmol)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T15:39:27Z",
+            "owner": "fineanmol",
+            "repo": "Hacktoberfest2026",
+            "stars": 2624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest(ossamamehmood)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-06T21:16:38Z",
+            "owner": "ossamamehmood",
+            "repo": "Hacktoberfest",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest2023(ossamamehmood)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-06T21:16:38Z",
+            "owner": "ossamamehmood",
+            "repo": "Hacktoberfest",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-06T21:16:38Z",
+            "owner": "ossamamehmood",
+            "repo": "Hacktoberfest",
+            "stars": 1334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hacktoberfest(fineanmol)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T02:26:40Z",
+            "owner": "fineanmol",
+            "repo": "hacktoberfest",
+            "stars": 907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fork-commit-merge(nikohoffren)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-12T04:33:51Z",
+            "owner": "fork-commit-merge",
+            "repo": "fork-commit-merge",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Btecky(laviii123)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-10-28T19:35:31Z",
+            "owner": "laviii123",
+            "repo": "Btecky",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swags-for-Developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-06T11:25:06Z",
+            "owner": "MrKrishnaAgarwal",
+            "repo": "Swags-for-Developers",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudhustlers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-03-23T01:44:15Z",
+            "owner": "SourceFusionHub",
+            "repo": "program",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSA_Hacktoberfest2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-12-21T17:16:50Z",
+            "owner": "Saikat2407",
+            "repo": "DSA_Hacktoberfest2023",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest2023(Ananya singh)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-10-19T19:51:13Z",
+            "owner": "Ananyasingh2002",
+            "repo": "Hacktoberfest2023",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest2023(Midway91)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-28T14:04:45Z",
+            "owner": "Midway91",
+            "repo": "HactoberFest2023",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hello-World-hacktoberfest2023",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-05T18:36:28Z",
+            "owner": "arjuncvinod",
+            "repo": "Hello-World-in-Different-Languages",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-04T03:29:01Z",
+            "owner": "surajsharma14",
+            "repo": "Web-Dev-Project-for-Hacktoberfest2023",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dev.HFest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-10-24T13:39:00Z",
+            "owner": "debrajrout",
+            "repo": "Hacktoberfest2023",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The-Hello-World-Project(H4K3R13)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scheme",
+            "last_commit": "2023-10-29T16:41:48Z",
+            "owner": "aarjn",
+            "repo": "The-Hello-World-Project",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest-2023(UmangDalvadi)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-10-14T19:14:34Z",
+            "owner": "UmangDalvadi",
+            "repo": "Hacktoberfest-2023",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HacktoberFest2023(Harshjot)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-26T13:59:15Z",
+            "owner": "Harsh-jot",
+            "repo": "HacktoberFest-2023",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PreciousServices(SyedImtiyaz-1)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-21T17:20:42Z",
+            "owner": "SyedImtiyaz-1",
+            "repo": "GetTechProjects",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest_2023(Im-Soumya)",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Excluded Repositories From Hacktoberfest 2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Complete DBMS Guide, From Zero to Hero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T01:52:19Z",
+            "owner": "donnemartin",
+            "repo": "system-design-primer",
+            "stars": 363522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "design-resources-for-developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-24T10:07:48Z",
+            "owner": "bradtraversy",
+            "repo": "design-resources-for-developers",
+            "stars": 66640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-Interview-Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T09:27:28Z",
+            "owner": "sudheerj",
+            "repo": "reactjs-interview-questions",
+            "stars": 44727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-datascience",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-10T14:39:24Z",
+            "owner": "academic",
+            "repo": "awesome-datascience",
+            "stars": 29807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-design-systems",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-28T16:03:25Z",
+            "owner": "alexpate",
+            "repo": "awesome-design-systems",
+            "stars": 25676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend Learning Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-08T04:22:24Z",
+            "owner": "sadanandpai",
+            "repo": "frontend-learning-kit",
+            "stars": 4681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "complete-web-developer-manual",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-27T11:35:13Z",
+            "owner": "zero-to-mastery",
+            "repo": "complete-web-developer-manual",
+            "stars": 2434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Indonesia Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-08T16:59:56Z",
+            "owner": "GitIndonesia",
+            "repo": "awesome-indonesia-repo",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hacktoberfest-swag.com - Another Hacktoberfest swag list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-10-14T06:15:57Z",
+            "owner": "benbarth",
+            "repo": "hacktoberfest-swag",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "indonesian NLP resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-09-19T21:55:20Z",
+            "owner": "kirralabs",
+            "repo": "indonesian-NLP-resources",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Tutorial in Bahasa Indonesia 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:29:35Z",
+            "owner": "petanikode",
+            "repo": "belajar-git",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Tutorial in Bahasa Indonesia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-02T04:22:01Z",
+            "owner": "endymuhardin",
+            "repo": "belajarGit",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest 2023 ZTM projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-25T09:30:46Z",
+            "owner": "zero-to-mastery",
+            "repo": "Hacktoberfest-2023",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-dev-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-09T12:29:41Z",
+            "owner": "chryz-hub",
+            "repo": "web-dev-resources",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacktoberfest Tracker Mobile App",
+          "description": "github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T23:03:12Z",
+            "owner": "KeyboardNinjas",
+            "repo": "hacktoberfest-mobileapp",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Guides and Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React+TypeScript Cheatsheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-29T19:52:44Z",
+            "owner": "typescript-cheatsheets",
+            "repo": "react",
+            "stars": 47100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V Programming Language Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-08-13T02:24:13Z",
+            "owner": "vlang",
+            "repo": "v",
+            "stars": 37791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-31T03:00:47Z",
+            "owner": "wsargent",
+            "repo": "docker-cheat-sheet",
+            "stars": 22536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-02-25T07:11:23Z",
+            "owner": "dennyzhang",
+            "repo": "cheatsheet-kubernetes-A4",
+            "stars": 2160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scala Cheat Sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-06-28T20:58:55Z",
+            "owner": "riiswa",
+            "repo": "Scala-CheatSheet",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computer-Network-CheatSheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-15T06:32:50Z",
+            "owner": "UmangDalvadi",
+            "repo": "CheatSheets",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "git-CheatSheet-beginner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-15T06:32:50Z",
+            "owner": "UmangDalvadi",
+            "repo": "CheatSheets",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Cheat sheets"
+    },
+    {
+      "description": "See all meetups and events here",
+      "items": [],
+      "title": "Meetups and Events"
+    },
+    {
+      "description": "To the extent possible under law, Otacilio Maia has waived all copyright and related or neighboring rights to this work.\nBack to top",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:22:05.118Z",
+    "original_repository": "OtacilioN/awesome-hacktoberfest",
+    "original_repository_sha": "abe91b811a3e4d3f0731da5b24e95f15d9e1eb93",
+    "enhanced_repository": "enhansome/enhansome-hacktoberfest",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hacktoberfest 2023 with stars"
+  }
+}
