@@ -22,7 +22,7 @@
 
 ## Repositories Supporting First-Timers
 
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,170 | 🐛 87 | 🌐 Python | 📅 2026-08-18
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 395,174 | 🐛 87 | 🌐 Python | 📅 2026-08-18
 * [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1,078 | 🐛 190 | 🌐 HTML | 📅 2026-02-24
 * [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 
@@ -48,14 +48,14 @@
 * [Ansible](https://github.com/ansible/ansible) ⭐ 70,450 | 🐛 842 | 🌐 Python | 📅 2026-08-19
 * [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,114 | 🐛 1,010 | 🌐 TypeScript | 📅 2026-08-25
 * [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 43,530 | 🐛 2,101 | 🌐 Rust | 📅 2026-08-25
-* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,757 | 🐛 1,164 | 🌐 JavaScript | 📅 2026-08-25
-* [Novu](https://github.com/novuhq/novu) ⭐ 39,662 | 🐛 110 | 🌐 TypeScript | 📅 2026-08-25
+* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 40,758 | 🐛 1,164 | 🌐 JavaScript | 📅 2026-08-25
+* [Novu](https://github.com/novuhq/novu) ⭐ 39,662 | 🐛 109 | 🌐 TypeScript | 📅 2026-08-25
 * [Clickvote](https://github.com/clickvote/clickvote) ⭐ 35,098 | 🐛 275 | 🌐 TypeScript | 📅 2026-08-25
 * [AdonisJS](https://github.com/adonisjs/core) ⭐ 19,101 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21
 * [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,707 | 🐛 841 | 🌐 TypeScript | 📅 2026-08-24
 * [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,223 | 🐛 103 | 🌐 Python | 📅 2026-08-24
 * [Amplication](https://github.com/amplication/amplication) ⭐ 16,012 | 🐛 661 | 🌐 TypeScript | 📅 2026-06-30
-* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,815 | 🐛 239 | 🌐 TypeScript | 📅 2026-08-25
+* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 12,815 | 🐛 237 | 🌐 TypeScript | 📅 2026-08-25
 * [Illacloud](https://github.com/illacloud/illa-builder) ⭐ 12,310 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27
 * [Hanko](https://github.com/teamhanko/hanko) ⭐ 9,011 | 🐛 59 | 🌐 Go | 📅 2026-08-24
 * [ALVR](https://github.com/alvr-org/ALVR) ⭐ 7,849 | 🐛 170 | 🌐 Rust | 📅 2026-08-23
@@ -96,7 +96,7 @@
 
 ## Guides and Resources
 
-* [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer) ⭐ 365,861 | 🐛 612 | 🌐 Python | 📅 2026-03-20
+* [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer) ⭐ 365,864 | 🐛 612 | 🌐 Python | 📅 2026-03-20
 * [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 66,746 | 🐛 99 | 📅 2026-05-24
 * [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,751 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-20
 * [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,858 | 🐛 8 | 📅 2026-08-22

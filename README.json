@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395170
+            "stars": 395174
           }
         },
         {
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:31:06Z",
+            "last_commit": "2026-08-25T06:05:09Z",
             "owner": "appwrite",
             "repo": "appwrite",
             "stars": 57114
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:30:31Z",
+            "last_commit": "2026-08-25T06:06:12Z",
             "owner": "juspay",
             "repo": "hyperswitch",
             "stars": 43530
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-25T05:02:39Z",
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 40757
+            "stars": 40758
           }
         },
         {
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 400215964,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:01:37Z",
+            "last_commit": "2026-08-25T05:41:43Z",
             "owner": "novuhq",
             "repo": "novu",
             "stars": 39662
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 500289888,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:28:16Z",
+            "last_commit": "2026-08-25T06:01:11Z",
             "owner": "formbricks",
             "repo": "formbricks",
             "stars": 12815
@@ -894,7 +894,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365861
+            "stars": 365864
           }
         },
         {
@@ -1223,7 +1223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:37:55.773Z",
+    "last_updated": "2026-08-25T06:10:26.431Z",
     "original_repository": "OtacilioN/awesome-hacktoberfest",
     "original_repository_id": 148955269,
     "original_repository_sha": "abe91b811a3e4d3f0731da5b24e95f15d9e1eb93",
