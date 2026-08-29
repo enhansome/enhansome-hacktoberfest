@@ -19,7 +19,7 @@
             "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395483,
+            "stars": 395501,
             "topics": [
               "books",
               "education",
@@ -46,7 +46,7 @@
             "open_issues": 189,
             "owner": "serpapi",
             "repo": "awesome-seo-tools",
-            "stars": 1081,
+            "stars": 1082,
             "topics": [
               "beginner-friendly",
               "first-timers-friendly",
@@ -421,7 +421,7 @@
             "open_issues": 836,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70491,
+            "stars": 70492,
             "topics": [
               "ansible",
               "python"
@@ -441,11 +441,11 @@
             "id": 180190854,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T03:39:00Z",
-            "open_issues": 1027,
+            "last_commit": "2026-08-29T11:28:48Z",
+            "open_issues": 1024,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57155,
+            "stars": 57157,
             "topics": [
               "android",
               "appwrite",
@@ -483,7 +483,7 @@
             "id": 552877440,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T01:01:27Z",
+            "last_commit": "2026-08-29T09:27:50Z",
             "open_issues": 2098,
             "owner": "juspay",
             "repo": "hyperswitch",
@@ -525,11 +525,11 @@
             "id": 352933140,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T22:52:19Z",
+            "last_commit": "2026-08-29T08:41:27Z",
             "open_issues": 1170,
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 40787,
+            "stars": 40789,
             "topics": [
               "ai-app-builder",
               "docker",
@@ -567,10 +567,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:16:44Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "novuhq",
             "repo": "novu",
-            "stars": 39680,
+            "stars": 39682,
             "topics": [
               "agents",
               "communication",
@@ -607,7 +607,7 @@
             "open_issues": 272,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35239,
+            "stars": 35244,
             "topics": [
               "nextjs",
               "open-source",
@@ -663,11 +663,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:48:23Z",
-            "open_issues": 844,
+            "last_commit": "2026-08-29T10:33:47Z",
+            "open_issues": 843,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18712,
+            "stars": 18714,
             "topics": [
               "javascript",
               "node",
@@ -692,7 +692,7 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:08:22Z",
+            "last_commit": "2026-08-29T11:21:55Z",
             "open_issues": 105,
             "owner": "arc53",
             "repo": "DocsGPT",
@@ -848,7 +848,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:47:38Z",
-            "open_issues": 57,
+            "open_issues": 59,
             "owner": "teamhanko",
             "repo": "hanko",
             "stars": 9016,
@@ -1060,7 +1060,7 @@
             "id": 223377955,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T15:15:37Z",
+            "last_commit": "2026-08-29T09:28:31Z",
             "open_issues": 169,
             "owner": "CatimaLoyalty",
             "repo": "Android",
@@ -1186,7 +1186,7 @@
             "open_issues": 605,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97148,
+            "stars": 97154,
             "topics": [
               "applications",
               "coding",
@@ -1213,11 +1213,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-08-29T02:06:44Z",
+            "last_commit": "2026-08-29T11:18:24Z",
             "open_issues": 150,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55728,
+            "stars": 55730,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -1841,7 +1841,7 @@
             "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366603,
+            "stars": 366650,
             "topics": [
               "design",
               "design-patterns",
@@ -1876,7 +1876,7 @@
             "open_issues": 103,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66770,
+            "stars": 66771,
             "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
@@ -1897,7 +1897,7 @@
             "open_issues": 11,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44763,
+            "stars": 44761,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -1932,7 +1932,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29887,
+            "stars": 29889,
             "topics": [
               "analytics",
               "awesome-list",
@@ -1964,7 +1964,7 @@
             "open_issues": 23,
             "owner": "alexpate",
             "repo": "awesome-design-systems",
-            "stars": 25818,
+            "stars": 25819,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2283,11 +2283,11 @@
             "id": 169677297,
             "language": "V",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:20:06Z",
+            "last_commit": "2026-08-29T10:49:47Z",
             "open_issues": 108,
             "owner": "vlang",
             "repo": "v",
-            "stars": 37800,
+            "stars": 37802,
             "topics": [
               "compiler",
               "language",
@@ -2313,7 +2313,7 @@
             "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22544,
+            "stars": 22545,
             "topics": [
               "cheet-sheet",
               "docker"
@@ -2431,7 +2431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:38.657Z",
+    "last_updated": "2026-08-29T11:33:42.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Hacktoberfest 2023 repositories, guides and resources",
