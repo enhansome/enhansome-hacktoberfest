@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":books: Freely available programming books",
+            "homepage": "https://ebookfoundation.github.io/free-programming-books/",
             "id": 13491895,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-18T14:16:15Z",
+            "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395443
+            "stars": 395483,
+            "topics": [
+              "books",
+              "education",
+              "hacktoberfest",
+              "list",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome SEO tools",
+            "homepage": "https://seotoolslist.org/",
             "id": 705941982,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-24T08:04:53Z",
+            "open_issues": 189,
             "owner": "serpapi",
             "repo": "awesome-seo-tools",
-            "stars": 1081
+            "stars": 1081,
+            "topics": [
+              "beginner-friendly",
+              "first-timers-friendly",
+              "hacktoberfest",
+              "hacktoberfest2023",
+              "seo",
+              "seo-free",
+              "seo-optimization",
+              "seo-tools",
+              "seotools"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -48,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "30 Day Vanilla JS Challenge",
+            "homepage": "https://JavaScript30.com",
             "id": 75867720,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-01T07:32:38Z",
+            "open_issues": 3,
             "owner": "wesbos",
             "repo": "JavaScript30",
-            "stars": 29260
+            "stars": 29261,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -64,12 +95,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS is powerful, you can do a lot of things without JS.",
+            "homepage": null,
             "id": 62615465,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-04T16:56:23Z",
+            "open_issues": 75,
             "owner": "you-dont-need",
             "repo": "You-Dont-Need-JavaScript",
-            "stars": 20572
+            "stars": 20572,
+            "topics": [
+              "accordion",
+              "burger-menu",
+              "carousel",
+              "counter",
+              "css",
+              "font",
+              "game",
+              "hacktoberfest",
+              "javascript",
+              "popover",
+              "textfield",
+              "tooltip",
+              "treeview"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -80,12 +130,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Temporarily under update",
+            "homepage": "https://pybegin.pages.dev/",
             "id": 458161187,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-03T18:01:07Z",
+            "open_issues": 119,
             "owner": "Mrinank-Bhowmick",
             "repo": "python-beginner-projects",
-            "stars": 2603
+            "stars": 2604,
+            "topics": [
+              "awesome-list",
+              "beginner-friendly",
+              "beginner-project",
+              "beginner-python",
+              "beginners-friendly",
+              "learning-python",
+              "opensource",
+              "programming",
+              "project",
+              "python",
+              "python-project-beginner",
+              "python-projects",
+              "tutorial-code"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -96,12 +165,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react-play is an opensource platform that helps you learn ReactJS faster with hands-on practice model. It is a collection of projects that you can use to learn ReactJS.",
+            "homepage": "https://reactplay.io",
             "id": 446314667,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-04T07:34:56Z",
+            "open_issues": 5,
             "owner": "reactplay",
             "repo": "react-play",
-            "stars": 1603
+            "stars": 1603,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "javascript",
+              "open-source",
+              "opensource",
+              "react",
+              "react-hooks",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -112,12 +195,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Collection of amazing javascript mini-projects.",
+            "homepage": null,
             "id": 301921989,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2026-06-25T05:44:11Z",
+            "open_issues": 92,
             "owner": "thinkswell",
             "repo": "javascript-mini-projects",
-            "stars": 1519
+            "stars": 1519,
+            "topics": [
+              "awesome",
+              "beginner",
+              "beginner-friendly",
+              "beginners-friendly",
+              "first-timers-friendly",
+              "good-first-issue",
+              "html-css-javascript",
+              "javascript",
+              "mini-project",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -128,12 +227,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and other tools that can be used to build and deploy applications and websites.",
+            "homepage": "https://linkshub.dev",
             "id": 584189373,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:54:00Z",
+            "open_issues": 10,
             "owner": "rupali-codes",
             "repo": "LinksHub",
-            "stars": 1020
+            "stars": 1020,
+            "topics": [
+              "beginner-friendly",
+              "developers",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "nextjs",
+              "open-source",
+              "resources",
+              "tailwindcss",
+              "tech-resources",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -144,12 +259,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!",
+            "homepage": null,
             "id": 248348687,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T16:46:53Z",
+            "open_issues": 29,
             "owner": "origranot",
             "repo": "reduced.to",
-            "stars": 705
+            "stars": 705,
+            "topics": [
+              "contributions-welcome",
+              "css",
+              "docker",
+              "hacktoberfest",
+              "html",
+              "nestjs",
+              "nodejs",
+              "nx",
+              "qwik",
+              "tailwindcss",
+              "typescript",
+              "url-shortener"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -160,12 +293,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository with a bunch of funny algorithms, beginners friendly ",
+            "homepage": null,
             "id": 150083876,
             "language": "C++",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T15:36:25Z",
+            "open_issues": 124,
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "beginners-friendly",
+              "first-timers",
+              "first-timers-friendly",
+              "funny-algorithms",
+              "funny-experiments",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -176,12 +323,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beginner-friendly repo for Hacktoberfest contributions (2025).",
+            "homepage": null,
             "id": 697770456,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-10-16T03:23:29Z",
+            "open_issues": 98,
             "owner": "Nikhil-2002",
             "repo": "development_Hactoberfest2025",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "frontend",
+              "fullstack-development",
+              "fullstack-javascript",
+              "hactoberfest",
+              "hactoberfest-accepted",
+              "hactoberfest2025",
+              "html-css-javascript",
+              "prgramming",
+              "projects"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -192,12 +354,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next Step To Code",
+            "homepage": "https://linktr.ee/coding_buddies4",
             "id": 547972900,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-11T13:09:19Z",
+            "open_issues": 0,
             "owner": "kishanrajput23",
             "repo": "Coding-Buddies-Community-Contributions",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2022"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -208,12 +379,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Welcome to our Hacktoberfest 2023 Beginner-Friendly Repository! 🎉  Are you eager to dive into the world of open source and contribute to meaningful projects? Look no further! This repository has been created with beginners in mind, offering a perfect opportunity to kickstart your open source journey.",
+            "homepage": "https://hacktoberfest.com/",
             "id": 698690583,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-22T10:49:03Z",
+            "open_issues": 3,
             "owner": "Aditya-devp",
             "repo": "Contributershub",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "beginner-friendly",
+              "first-time-contributors",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -230,12 +412,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+            "homepage": "https://www.ansible.com/",
             "id": 3638964,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:26:26Z",
+            "open_issues": 836,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70489
+            "stars": 70491,
+            "topics": [
+              "ansible",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -246,12 +436,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "homepage": "https://appwrite.io",
             "id": 180190854,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:18:40Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:39:00Z",
+            "open_issues": 1027,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57153
+            "stars": 57155,
+            "topics": [
+              "android",
+              "appwrite",
+              "backend",
+              "backend-as-a-service",
+              "docker",
+              "firebase",
+              "flutter",
+              "hosting",
+              "ios",
+              "javascript",
+              "nextjs",
+              "react",
+              "react-native",
+              "reactnative",
+              "self-hosted",
+              "selfhosted",
+              "serverless",
+              "supabase",
+              "swift",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -262,12 +478,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
+            "homepage": "https://hyperswitch.io/",
             "id": 552877440,
             "language": "Rust",
-            "last_commit": "2026-08-28T16:59:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:01:27Z",
+            "open_issues": 2098,
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 43538
+            "stars": 43539,
+            "topics": [
+              "adyen",
+              "beginner-friendly",
+              "featured",
+              "finance",
+              "fintech",
+              "hacktoberfest",
+              "high-performance",
+              "open-source",
+              "orchestration",
+              "payment",
+              "payment-gateway",
+              "payment-integration",
+              "payment-processing",
+              "payments",
+              "payments-platform",
+              "restful-api",
+              "rust",
+              "sdk",
+              "stripe",
+              "works-with-react"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -278,12 +520,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+            "homepage": "https://tooljet.com",
             "id": 352933140,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T15:47:27Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T22:52:19Z",
+            "open_issues": 1170,
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 40787
+            "stars": 40787,
+            "topics": [
+              "ai-app-builder",
+              "docker",
+              "hacktoberfest",
+              "internal-applications",
+              "internal-project",
+              "internal-tool",
+              "internal-tools",
+              "javascript",
+              "kubernetes",
+              "low-code",
+              "low-code-development-platform",
+              "low-code-framework",
+              "no-code",
+              "nodejs",
+              "reactjs",
+              "self-hosted",
+              "typescript",
+              "web-development-tools",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -294,12 +561,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source communication infrastructure for agents and products",
+            "homepage": "https://go.novu.co/github",
             "id": 400215964,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:16:44Z",
+            "open_issues": 104,
             "owner": "novuhq",
             "repo": "novu",
-            "stars": 39681
+            "stars": 39680,
+            "topics": [
+              "agents",
+              "communication",
+              "email",
+              "inbox",
+              "infrastructure",
+              "nodejs",
+              "notification-center",
+              "notifications",
+              "novu",
+              "push-notifications",
+              "react",
+              "reactjs",
+              "sms",
+              "transactional",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -310,12 +598,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📨 The ultimate agentic social media scheduling tool 🤖",
+            "homepage": "https://postiz.com",
             "id": 664013991,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:15:20Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:07:57Z",
+            "open_issues": 272,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 35234
+            "stars": 35239,
+            "topics": [
+              "nextjs",
+              "open-source",
+              "open-source-social-media-scheduling-tool",
+              "oss",
+              "redis",
+              "scheduling-tool",
+              "social-media-scheduling-tool",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -326,12 +628,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
+            "homepage": "https://adonisjs.com",
             "id": 40772809,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T11:43:59Z",
+            "open_issues": 9,
             "owner": "adonisjs",
             "repo": "core",
-            "stars": 19103
+            "stars": 19103,
+            "topics": [
+              "core",
+              "framework",
+              "mvc-framework",
+              "nodejs",
+              "nodejs-framework",
+              "typescript",
+              "typescript-framework",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -342,12 +658,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, background jobs, RPC, email sending, end-to-end type safety, single-command deployment, and more.",
+            "homepage": "https://wasp.sh",
             "id": 237222619,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:48:23Z",
+            "open_issues": 844,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18712
+            "stars": 18712,
+            "topics": [
+              "javascript",
+              "node",
+              "open-source",
+              "prisma",
+              "react",
+              "wasp",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -358,12 +687,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+            "homepage": "https://app.docsgpt.cloud/",
             "id": 596516907,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:08:22Z",
+            "open_issues": 105,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18231
+            "stars": 18231,
+            "topics": [
+              "agent-builder",
+              "agents",
+              "ai",
+              "chatgpt",
+              "docsgpt",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "information-retrieval",
+              "language-model",
+              "llm",
+              "machine-learning",
+              "natural-language-processing",
+              "python",
+              "pytorch",
+              "rag",
+              "react",
+              "search",
+              "semantic-search",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -374,12 +728,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standardized delivery across teams.",
+            "homepage": "https://amplication.com",
             "id": 262862475,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T13:46:55Z",
+            "open_issues": 661,
             "owner": "amplication",
             "repo": "amplication",
-            "stars": 16015
+            "stars": 16015,
+            "topics": [
+              "api",
+              "code-generation",
+              "csharp",
+              "csharp-code",
+              "dotnet",
+              "dotnet-core",
+              "graphql",
+              "hacktoberfest",
+              "javascript",
+              "low-code",
+              "nestjs",
+              "nodejs",
+              "prisma",
+              "typescript",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -390,12 +765,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Qualtrics Alternative",
+            "homepage": "https://formbricks.com",
             "id": 500289888,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:13:43Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:45:08Z",
+            "open_issues": 239,
             "owner": "formbricks",
             "repo": "formbricks",
-            "stars": 12835
+            "stars": 12837,
+            "topics": [
+              "experience-management",
+              "form",
+              "forms",
+              "nextjs",
+              "open-source",
+              "react",
+              "reactjs",
+              "survey",
+              "survey-analysis",
+              "survey-data",
+              "survey-form",
+              "surveys",
+              "tailwindcss",
+              "turborepo",
+              "typeform",
+              "typescript",
+              "xm"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -406,12 +804,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool. ",
+            "homepage": null,
             "id": 482719022,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T02:22:32Z",
+            "open_issues": 43,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12312
+            "stars": 12312,
+            "topics": [
+              "aiagent",
+              "app-builder",
+              "crud-application",
+              "developer-tool",
+              "developer-tools",
+              "gui",
+              "hacktoberfest",
+              "internal-development",
+              "internal-tool",
+              "internal-tools",
+              "low-code",
+              "low-code-development-platform",
+              "lowcode",
+              "react",
+              "self-hosted",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -422,12 +842,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.",
+            "homepage": "https://www.hanko.io",
             "id": 469828818,
             "language": "Go",
-            "last_commit": "2026-08-25T16:50:35Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T20:47:38Z",
+            "open_issues": 57,
             "owner": "teamhanko",
             "repo": "hanko",
-            "stars": 9016
+            "stars": 9016,
+            "topics": [
+              "2fa",
+              "authentication",
+              "ciam",
+              "fido2",
+              "iam",
+              "jwt",
+              "mfa",
+              "oauth",
+              "passkeys",
+              "passwordless",
+              "saml",
+              "sso",
+              "user-management",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -438,12 +878,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream VR games from your PC to your headset via Wi-Fi",
+            "homepage": null,
             "id": 197211881,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:37:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:25:43Z",
+            "open_issues": 166,
             "owner": "alvr-org",
             "repo": "ALVR",
-            "stars": 7862
+            "stars": 7863,
+            "topics": [
+              "oculus-go",
+              "oculus-quest",
+              "pcvr",
+              "steamvr",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -454,12 +905,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A music programming language for musicians. :notes:",
+            "homepage": "https://alda.io",
             "id": 23338323,
             "language": "Go",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-19T20:01:02Z",
+            "open_issues": 7,
             "owner": "alda-lang",
             "repo": "alda",
-            "stars": 5935
+            "stars": 5935,
+            "topics": [
+              "alda",
+              "hacktoberfest",
+              "music",
+              "music-composition",
+              "music-programming",
+              "music-programming-language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -470,12 +934,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The only Kubernetes dashboard you need",
+            "homepage": "https://devtron.ai",
             "id": 302922505,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T11:10:06Z",
+            "open_issues": 766,
             "owner": "devtron-labs",
             "repo": "devtron",
-            "stars": 5589
+            "stars": 5589,
+            "topics": [
+              "aks",
+              "appops",
+              "argocd",
+              "continuous-deployment",
+              "dashboard",
+              "deployment",
+              "deployment-automation",
+              "deployment-pipeline",
+              "deployment-strategy",
+              "devtron",
+              "eks",
+              "gitops",
+              "gke",
+              "hacktoberfest",
+              "kubectl",
+              "kubernetes",
+              "kubernetes-dashboard",
+              "kubernetes-deployment",
+              "release-automation",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -486,12 +976,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mod for the Discord Android App",
+            "homepage": "https://discord.gg/EsNDvBaHVU",
             "id": 342909700,
             "language": "Kotlin",
+            "license": "OSL-3.0",
             "last_commit": "2026-08-23T00:30:00Z",
+            "open_issues": 107,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4853
+            "stars": 4854,
+            "topics": [
+              "android",
+              "discord",
+              "java",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -502,12 +1002,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LFX Community Data Platform (CDP)",
+            "homepage": "https://lfx.linuxfoundation.org",
             "id": 508240664,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:03:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:45:30Z",
+            "open_issues": 31,
             "owner": "linuxfoundation",
             "repo": "crowd.dev",
-            "stars": 3365
+            "stars": 3365,
+            "topics": [
+              "cdp",
+              "community",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -518,12 +1027,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source ConfigOps infrastructure ⚙️",
+            "homepage": "https://configu.com",
             "id": 543120588,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-17T17:08:29Z",
+            "open_issues": 86,
             "owner": "configu",
             "repo": "configu",
-            "stars": 1684
+            "stars": 1684,
+            "topics": [
+              "application-configuration",
+              "configuration",
+              "configuration-file",
+              "configuration-management",
+              "hacktoberfest",
+              "software-configurations"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -534,12 +1055,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catima, a Loyalty Card & Ticket Manager for Android",
+            "homepage": "https://catima.app",
             "id": 223377955,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T15:15:37Z",
+            "open_issues": 169,
             "owner": "CatimaLoyalty",
             "repo": "Android",
-            "stars": 1679
+            "stars": 1679,
+            "topics": [
+              "android",
+              "f-droid",
+              "fdroid",
+              "izzyondroid",
+              "loyalty",
+              "wear-os",
+              "wearos"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -550,12 +1084,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of open source plugins, widgets, agent skills, and developer resources for Figma products that have been shared on GitHub.",
+            "homepage": "https://www.figma.com/developers",
             "id": 204786174,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-17T21:26:52Z",
+            "open_issues": 10,
             "owner": "figma",
             "repo": "community-resources",
-            "stars": 839
+            "stars": 840,
+            "topics": [
+              "agent-skills",
+              "figma",
+              "figma-api",
+              "figma-mcp",
+              "figma-plugin",
+              "figma-widget",
+              "use-figma"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -566,12 +1113,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TextUtiles is a word counter and charactor conter utility which can be manipulate your text in the way you want. You can copy text as well as convert your text UpperCase to LowerCase and Vice-versa",
+            "homepage": "https://text-utiles-reactapp.netlify.app",
             "id": 618025470,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-01T16:52:54Z",
+            "open_issues": 1,
             "owner": "UmangDalvadi",
             "repo": "Text-Utiles-ReactApp",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "javascript",
+              "javascript-framework",
+              "javascript-library",
+              "react-bootstrap",
+              "react-components",
+              "react-hooks",
+              "react-router",
+              "react-router-dom",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -582,12 +1146,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building the Ultimate Productivity Tool.",
+            "homepage": null,
             "id": 701057222,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-16T08:35:24Z",
+            "open_issues": 0,
             "owner": "UmangDalvadi",
             "repo": "WorkLikeElon-Lolgorithm",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -604,12 +1177,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Collection of application ideas which can be used to improve your coding skills.",
+            "homepage": "https://CodeRabbit.ai/?ref=app-ideas",
             "id": 172562475,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-11T14:51:21Z",
+            "open_issues": 605,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97140
+            "stars": 97148,
+            "topics": [
+              "applications",
+              "coding",
+              "codingchallenges",
+              "css",
+              "hacktoberfest",
+              "html",
+              "ideas",
+              "javascript",
+              "practice"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -620,12 +1208,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀✨ Help beginners to contribute to open source projects",
+            "homepage": "https://firstcontributions.github.io",
             "id": 68720867,
             "language": null,
-            "last_commit": "2026-08-28T17:07:57Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:06:44Z",
+            "open_issues": 150,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 55721
+            "stars": 55728,
+            "topics": [
+              "beginner",
+              "beginner-friendly",
+              "contribute",
+              "contribution",
+              "contributions-welcome",
+              "good-first-contribution",
+              "good-first-issue",
+              "good-first-pr",
+              "open-source",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -636,12 +1240,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your first Pull Request on Hacktoberfest 2026. Don't forget to spread love and if you like give us a ⭐️ ",
+            "homepage": "https://fineanmol.github.io/Hacktoberfest2026/",
             "id": 152188932,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T15:39:27Z",
+            "open_issues": 15,
             "owner": "fineanmol",
             "repo": "Hacktoberfest2026",
-            "stars": 2626
+            "stars": 2626,
+            "topics": [
+              "digitalocean",
+              "github",
+              "hacktober2025",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-approved",
+              "hacktoberfest2026",
+              "opensource",
+              "opensource-projects",
+              "opensourcecode",
+              "osc",
+              "pull-request"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -652,12 +1274,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest OPEN FIRST Pull Request 🎉",
+            "homepage": "https://hacktoberfest.com",
             "id": 413995777,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-10-06T21:16:38Z",
+            "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "awesome",
+              "contributions-welcome",
+              "digitalocean",
+              "first-contribution",
+              "first-contributions",
+              "firstcontributions",
+              "firstpullrequest",
+              "freecodecamp",
+              "freetshirt",
+              "gift",
+              "github",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2020",
+              "hacktoberfest2023",
+              "newbiefriendly",
+              "opensource",
+              "ossamamehmood",
+              "pull-request",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -668,12 +1316,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest OPEN FIRST Pull Request 🎉",
+            "homepage": "https://hacktoberfest.com",
             "id": 413995777,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-10-06T21:16:38Z",
+            "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "awesome",
+              "contributions-welcome",
+              "digitalocean",
+              "first-contribution",
+              "first-contributions",
+              "firstcontributions",
+              "firstpullrequest",
+              "freecodecamp",
+              "freetshirt",
+              "gift",
+              "github",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2020",
+              "hacktoberfest2023",
+              "newbiefriendly",
+              "opensource",
+              "ossamamehmood",
+              "pull-request",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -684,12 +1358,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest OPEN FIRST Pull Request 🎉",
+            "homepage": "https://hacktoberfest.com",
             "id": 413995777,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-10-06T21:16:38Z",
+            "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1333
+            "stars": 1333,
+            "topics": [
+              "awesome",
+              "contributions-welcome",
+              "digitalocean",
+              "first-contribution",
+              "first-contributions",
+              "firstcontributions",
+              "firstpullrequest",
+              "freecodecamp",
+              "freetshirt",
+              "gift",
+              "github",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2020",
+              "hacktoberfest2023",
+              "newbiefriendly",
+              "opensource",
+              "ossamamehmood",
+              "pull-request",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -700,12 +1400,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your first Pull Request on Hacktoberfest 2025. Don't forget to spread love and if you like give us a ⭐️",
+            "homepage": "https://fineanmol.github.io/hacktoberfest/",
             "id": 541306761,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T02:26:37Z",
+            "open_issues": 9,
             "owner": "fineanmol",
             "repo": "hacktoberfest",
-            "stars": 909
+            "stars": 909,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hacktoberfest2023",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -716,12 +1427,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!",
+            "homepage": "https://forkcommitmerge.dev",
             "id": 667384015,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:14:00Z",
+            "open_issues": 144,
             "owner": "fork-commit-merge",
             "repo": "fork-commit-merge",
-            "stars": 508
+            "stars": 508,
+            "topics": [
+              "first-contribution",
+              "first-contributions",
+              "first-timers",
+              "first-timers-friendly",
+              "fork-commit-merge",
+              "git",
+              "good-first-repo",
+              "learn-to-contribute",
+              "up-for-grabs"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -732,12 +1458,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hacktoberfest 2023",
+            "homepage": "https://www.youtube.com/@btecky/videos",
             "id": 698834326,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-10-28T19:35:31Z",
+            "open_issues": 187,
             "owner": "laviii123",
             "repo": "Btecky",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "hacktober",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2021",
+              "hacktoberfest23"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -748,12 +1485,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Curated List of amazing and awesome swags for developers eg: T-Shirts, Stickers, Goodies, and more.",
+            "homepage": null,
             "id": 522820329,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2025-02-06T11:25:06Z",
+            "open_issues": 0,
             "owner": "MrKrishnaAgarwal",
             "repo": "Swags-for-Developers",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "goodies",
+              "hacktoberfest",
+              "open-source",
+              "swags"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -764,12 +1511,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "By CloudHustlers",
+            "homepage": "https://www.youtube.com/@CloudHustlers",
             "id": 699483680,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-03-23T01:44:15Z",
+            "open_issues": 0,
             "owner": "SourceFusionHub",
             "repo": "program",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2023",
+              "open-source",
+              "questions-and-answers"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -780,12 +1538,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This Repo will Accept all the quality Hacktoberfest 2023 Contribution ⚡️✅🎉",
+            "homepage": null,
             "id": 698839713,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-12-21T17:16:50Z",
+            "open_issues": 279,
             "owner": "Saikat2407",
             "repo": "DSA_Hacktoberfest2023",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "cpp",
+              "dsa",
+              "dsa-algorithm",
+              "dsalgo-questions",
+              "good-first-issue",
+              "hacktoberfest",
+              "hacktoberfest-2023",
+              "hacktoberfest-2023-accepted",
+              "hacktoberfest-accepted",
+              "hacktoberfest-accepted2023",
+              "hacktoberfest-starter",
+              "hacktoberfest2023",
+              "hacktoberfest2023-approved",
+              "java",
+              "leetcode",
+              "leetcode-solutions"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -796,12 +1576,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!",
+            "homepage": "https://ananyasingh2002.github.io/Hacktoberfest2023/",
             "id": 686319106,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-10-19T19:51:13Z",
+            "open_issues": 434,
             "owner": "Ananyasingh2002",
             "repo": "Hacktoberfest2023",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -812,12 +1601,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is for HacktoberFest2023",
+            "homepage": null,
             "id": 698225234,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-11-28T14:04:45Z",
+            "open_issues": 0,
             "owner": "Midway91",
             "repo": "HactoberFest2023",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "cpp",
+              "csharp",
+              "good-first-issue",
+              "hacktoberfest",
+              "hactoberfest2023",
+              "html-css-javascript",
+              "java",
+              "open-source",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -828,12 +1632,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐ You can contribute to this Repository by creating programs to print \"hello world\" in different programming languages.⭐",
+            "homepage": null,
             "id": 697419379,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-05T18:36:28Z",
+            "open_issues": 39,
             "owner": "arjuncvinod",
             "repo": "Hello-World-in-Different-Languages",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "beginner-friendly",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest10",
+              "hacktoberfest2023",
+              "hello-world",
+              "hello-world-in-all-languages"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -844,12 +1661,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 698850313,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-11-04T03:29:01Z",
+            "open_issues": 21,
             "owner": "surajsharma14",
             "repo": "Web-Dev-Project-for-Hacktoberfest2023",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hacktoberfest2023",
+              "hacktoberfest2023-approved"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -860,12 +1688,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository has been created to allow developers and open-source enthusiasts come together to contribute to various projects and learn from each other.",
+            "homepage": null,
             "id": 697841278,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-10-24T13:39:00Z",
+            "open_issues": 38,
             "owner": "debrajrout",
             "repo": "Hacktoberfest2023",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "github",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -876,12 +1712,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository hosts programs that output 'Hello World' in various programming languages. 🌍✨",
+            "homepage": null,
             "id": 552994181,
             "language": "Scheme",
+            "license": null,
             "last_commit": "2023-10-29T16:41:48Z",
+            "open_issues": 6,
             "owner": "aarjn",
             "repo": "The-Hello-World-Project",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "first-timers-only",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hello-world",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -892,12 +1740,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hacktoberfest 2023 OPEN FIRST Pull Request ⭐ - Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).",
+            "homepage": "https://hacktoberfest.com/",
             "id": 698381680,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-10-14T19:14:34Z",
+            "open_issues": 8,
             "owner": "UmangDalvadi",
             "repo": "Hacktoberfest-2023",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "appwrite",
+              "digitalocean",
+              "first-contribution",
+              "good-first-issues",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-approved",
+              "hacktoberfest2023",
+              "hacktoberfest2023-accepted",
+              "hacktoberfest2023-approved",
+              "newbiefriendly",
+              "open-source",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -908,12 +1775,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Welcome to the HacktoberFest 2023 Repository!",
+            "homepage": "https://hacktoberfest.com/",
             "id": 701038137,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-10-26T13:59:15Z",
+            "open_issues": 8,
             "owner": "Harsh-jot",
             "repo": "HacktoberFest-2023",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-approved",
+              "hacktoberfest-starter",
+              "hacktoberfest2023",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -924,12 +1803,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️",
+            "homepage": "https://preciousitservices.vercel.app",
             "id": 656382724,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-01-21T17:20:42Z",
+            "open_issues": 451,
             "owner": "SyedImtiyaz-1",
             "repo": "GetTechProjects",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -946,12 +1832,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
             "id": 83222441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366544
+            "stars": 366603,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -962,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+            "homepage": null,
             "id": 261787758,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-24T10:07:48Z",
+            "open_issues": 103,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66768
+            "stars": 66770,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -978,12 +1888,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+            "homepage": null,
             "id": 135614069,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:37:15Z",
+            "open_issues": 11,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44761
+            "stars": 44763,
+            "topics": [
+              "interview-preparation",
+              "interview-questions",
+              "javascript",
+              "javascript-applications",
+              "javascript-framework",
+              "javascript-interview-questions",
+              "react",
+              "react-interview-questions",
+              "react-native",
+              "react-router",
+              "react16",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -994,12 +1923,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+            "homepage": null,
             "id": 21515044,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T15:40:38Z",
+            "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29886
+            "stars": 29887,
+            "topics": [
+              "analytics",
+              "awesome-list",
+              "data-mining",
+              "data-science",
+              "data-scientists",
+              "data-visualization",
+              "deep-learning",
+              "hacktoberfest",
+              "machine-learning",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1010,12 +1955,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💅🏻 ⚒ A collection of awesome design systems",
+            "homepage": "https://git.io/design-systems",
             "id": 93558276,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-04-28T16:03:25Z",
+            "open_issues": 23,
             "owner": "alexpate",
             "repo": "awesome-design-systems",
-            "stars": 25814
+            "stars": 25818,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "design-systems",
+              "hacktoberfest",
+              "pattern-library",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1026,12 +1983,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frontend tech guide and curated collection of frontend materials",
+            "homepage": null,
             "id": 374018112,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-08T04:22:24Z",
+            "open_issues": 1,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4686
+            "stars": 4686,
+            "topics": [
+              "angular",
+              "css",
+              "frontend",
+              "interview",
+              "interview-preparation",
+              "javascript",
+              "react",
+              "reactjs",
+              "vuejs",
+              "webdev",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1042,12 +2016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All resources and notes from the Complete Web Developer: Zero to Mastery course",
+            "homepage": "https://zerotomastery.io/courses/coding-bootcamp/",
             "id": 140389313,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-27T11:35:13Z",
+            "open_issues": 2,
             "owner": "zero-to-mastery",
             "repo": "complete-web-developer-manual",
-            "stars": 2438
+            "stars": 2438,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1058,12 +2037,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome repository created and contributed by Indonesian people.",
+            "homepage": null,
             "id": 52785444,
             "language": "Jupyter Notebook",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-08T16:59:56Z",
+            "open_issues": 9,
             "owner": "GitIndonesia",
             "repo": "awesome-indonesia-repo",
-            "stars": 763
+            "stars": 763,
+            "topics": [
+              "awesome-list",
+              "hacktoberfest",
+              "indonesia",
+              "repository"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1074,12 +2063,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Looking for hacktoberfest swag? You've come to the right place.",
+            "homepage": "https://hacktoberfest-swag.com/",
             "id": 150666318,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-10-14T06:15:57Z",
+            "open_issues": 2,
             "owner": "benbarth",
             "repo": "hacktoberfest-swag",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-swag",
+              "swag"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1090,12 +2088,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "data resource untuk NLP bahasa indonesia",
+            "homepage": null,
             "id": 145520421,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-09-19T21:55:20Z",
+            "open_issues": 0,
             "owner": "kirralabs",
             "repo": "indonesian-NLP-resources",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "corpus",
+              "corpus-linguistics",
+              "crawler",
+              "dataset",
+              "dependency-parser",
+              "indonesian",
+              "indonesian-language",
+              "named-entity-recognition",
+              "nlp",
+              "parallel-corpus",
+              "pos-tagging",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1106,12 +2122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial Git dalam Bahasa Indonesia",
+            "homepage": "https://petanikode.github.io/belajar-git/",
             "id": 105293723,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-12T10:29:35Z",
+            "open_issues": 10,
             "owner": "petanikode",
             "repo": "belajar-git",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "book",
+              "git",
+              "github",
+              "hacktoberfest",
+              "petanikode",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1122,12 +2150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial Git dalam Bahasa Indonesia",
+            "homepage": null,
             "id": 1219185,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-02T04:22:01Z",
+            "open_issues": 18,
             "owner": "endymuhardin",
             "repo": "belajarGit",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1138,12 +2171,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with Hacktoberfest 2023 with 3 awesome ZTM projects",
+            "homepage": null,
             "id": 696433803,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-25T09:30:46Z",
+            "open_issues": 0,
             "owner": "zero-to-mastery",
             "repo": "Hacktoberfest-2023",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-2023",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1154,12 +2196,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web dev resources for developers.",
+            "homepage": null,
             "id": 351057541,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-01-09T12:29:41Z",
+            "open_issues": 0,
             "owner": "chryz-hub",
             "repo": "web-dev-resources",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "css",
+              "frontend",
+              "html",
+              "javascript",
+              "python",
+              "react",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1170,12 +2225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacktoberfest Tracker Mobile App",
+            "homepage": null,
             "id": 216213467,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T23:03:12Z",
+            "open_issues": 21,
             "owner": "KeyboardNinjas",
             "repo": "hacktoberfest-mobileapp",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -1192,12 +2252,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+            "homepage": "https://react-typescript-cheatsheet.netlify.app",
             "id": 135786093,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-29T19:52:44Z",
+            "open_issues": 0,
             "owner": "typescript-cheatsheets",
             "repo": "react",
-            "stars": 47097
+            "stars": 47096,
+            "topics": [
+              "cheatsheet",
+              "guide",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1208,12 +2278,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+            "homepage": null,
             "id": 169677297,
             "language": "V",
-            "last_commit": "2026-08-28T17:16:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:20:06Z",
+            "open_issues": 108,
             "owner": "vlang",
             "repo": "v",
-            "stars": 37801
+            "stars": 37800,
+            "topics": [
+              "compiler",
+              "language",
+              "programming-language",
+              "v"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1224,12 +2304,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker Cheat Sheet",
+            "homepage": null,
             "id": 22657662,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-12-31T03:00:47Z",
+            "open_issues": 7,
             "owner": "wsargent",
             "repo": "docker-cheat-sheet",
-            "stars": 22543
+            "stars": 22544,
+            "topics": [
+              "cheet-sheet",
+              "docker"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1240,12 +2328,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: Kubernetes CheatSheets In A4",
+            "homepage": "https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-A4",
             "id": 112541316,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-02-25T07:11:23Z",
+            "open_issues": 0,
             "owner": "dennyzhang",
             "repo": "cheatsheet-kubernetes-A4",
-            "stars": 2161
+            "stars": 2161,
+            "topics": [
+              "cheatsheets",
+              "containers",
+              "denny-cheatsheets",
+              "denny-kubernetes",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1256,12 +2355,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Biggest Scala Cheat-Sheet.",
+            "homepage": "https://riiswa.github.io/Scala-CheatSheet/",
             "id": 189402626,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2019-06-28T20:58:55Z",
+            "open_issues": 0,
             "owner": "riiswa",
             "repo": "Scala-CheatSheet",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "beakerx",
+              "cheatsheet",
+              "help-wanted",
+              "jupyter-notebook",
+              "learning",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1272,12 +2383,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 671978405,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-15T06:32:50Z",
+            "open_issues": 0,
             "owner": "UmangDalvadi",
             "repo": "CheatSheets",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cheat-codes",
+              "cheating-mod",
+              "cheatsheet"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         },
@@ -1288,12 +2408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 671978405,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-15T06:32:50Z",
+            "open_issues": 0,
             "owner": "UmangDalvadi",
             "repo": "CheatSheets",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "cheat-codes",
+              "cheating-mod",
+              "cheatsheet"
+            ]
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
         }
@@ -1302,15 +2431,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:18:03.515Z",
+    "last_updated": "2026-08-29T04:40:38.657Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Hacktoberfest 2023 repositories, guides and resources",
+      "homepage": "https://otacilion.github.io/awesome-hacktoberfest/",
       "id": 148955269,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-11-03T19:17:26Z",
+      "open_issues": 30,
       "owner": "OtacilioN",
       "repo": "awesome-hacktoberfest",
-      "stars": 860
+      "stars": 860,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "begginer-friendly",
+        "first-time-contributors",
+        "first-timer",
+        "first-timers-friendly",
+        "hacktoberfest",
+        "hacktoberfest2022"
+      ]
     },
     "original_repository_sha": "abe91b811a3e4d3f0731da5b24e95f15d9e1eb93",
     "enhanced_repository": "enhansome/enhansome-hacktoberfest",
