@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Free Programming Books",
-          "description": null,
+          "description": "EbookFoundation/free-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 13491895,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-24T12:26:41Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-02T19:35:16Z",
+            "open_issues": 85,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398298,
+            "stars": 398351,
             "topics": [
               "books",
               "education",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Awesome SEO tools",
-          "description": null,
+          "description": "serpapi/awesome-seo-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -43,7 +43,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-09-14T07:45:24Z",
-            "open_issues": 232,
+            "open_issues": 234,
             "owner": "serpapi",
             "repo": "awesome-seo-tools",
             "stars": 1104,
@@ -70,7 +70,7 @@
         {
           "node_type": "item",
           "title": "JavaScript30",
-          "description": null,
+          "description": "wesbos/JavaScript30",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
             "open_issues": 3,
             "owner": "wesbos",
             "repo": "JavaScript30",
-            "stars": 29305,
+            "stars": 29303,
             "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
@@ -91,7 +91,7 @@
         {
           "node_type": "item",
           "title": "You-Dont-Need-JavaScript",
-          "description": null,
+          "description": "you-dont-need/You-Dont-Need-JavaScript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "Python projects",
-          "description": null,
+          "description": "Mrinank-Bhowmick/python-beginner-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,7 +139,7 @@
             "open_issues": 118,
             "owner": "Mrinank-Bhowmick",
             "repo": "python-beginner-projects",
-            "stars": 2697,
+            "stars": 2700,
             "topics": [
               "awesome-list",
               "beginner-friendly",
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "HacktoberFest",
-          "description": null,
+          "description": "reactplay/react-play",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
             "open_issues": 4,
             "owner": "reactplay",
             "repo": "react-play",
-            "stars": 1604,
+            "stars": 1603,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -191,7 +191,7 @@
         {
           "node_type": "item",
           "title": "javascript-mini-projects",
-          "description": null,
+          "description": "thinkswell/javascript-mini-projects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "LinksHub",
-          "description": null,
+          "description": "rupali-codes/LinksHub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -255,7 +255,7 @@
         {
           "node_type": "item",
           "title": "reduced.to",
-          "description": null,
+          "description": "origranot/reduced.to",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -289,7 +289,7 @@
         {
           "node_type": "item",
           "title": "Funny Algorithms",
-          "description": null,
+          "description": "ReciHub/FunnyAlgorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -319,7 +319,7 @@
         {
           "node_type": "item",
           "title": "Web Design",
-          "description": null,
+          "description": "Nikhil-2002/development_Hactoberfest2025",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -350,7 +350,7 @@
         {
           "node_type": "item",
           "title": "Basic Python projects",
-          "description": null,
+          "description": "kishanrajput23/Coding-Buddies-Community-Contributions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "Multi-language algorithms repo",
-          "description": null,
+          "description": "Aditya-devp/Contributershub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -408,7 +408,7 @@
         {
           "node_type": "item",
           "title": "Ansible",
-          "description": null,
+          "description": "ansible/ansible",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -417,11 +417,11 @@
             "id": 3638964,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T14:33:31Z",
-            "open_issues": 865,
+            "last_commit": "2026-10-02T21:01:26Z",
+            "open_issues": 863,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70826,
+            "stars": 70834,
             "topics": [
               "ansible",
               "python"
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "Appwrite",
-          "description": null,
+          "description": "appwrite/appwrite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,11 +441,11 @@
             "id": 180190854,
             "language": "PHP",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T10:43:03Z",
-            "open_issues": 684,
+            "last_commit": "2026-10-03T03:46:15Z",
+            "open_issues": 683,
             "owner": "appwrite",
             "repo": "appwrite",
-            "stars": 57537,
+            "stars": 57546,
             "topics": [
               "android",
               "appwrite",
@@ -474,7 +474,7 @@
         {
           "node_type": "item",
           "title": "Hyperswitch",
-          "description": null,
+          "description": "juspay/hyperswitch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,11 +483,11 @@
             "id": 552877440,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:49:41Z",
+            "last_commit": "2026-10-02T11:15:24Z",
             "open_issues": 2270,
             "owner": "juspay",
             "repo": "hyperswitch",
-            "stars": 45272,
+            "stars": 45270,
             "topics": [
               "adyen",
               "beginner-friendly",
@@ -516,7 +516,7 @@
         {
           "node_type": "item",
           "title": "Tooljet",
-          "description": null,
+          "description": "ToolJet/ToolJet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -525,11 +525,11 @@
             "id": 352933140,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T09:20:47Z",
-            "open_issues": 1281,
+            "last_commit": "2026-10-02T21:35:58Z",
+            "open_issues": 1278,
             "owner": "ToolJet",
             "repo": "ToolJet",
-            "stars": 41025,
+            "stars": 41027,
             "topics": [
               "ai-app-builder",
               "docker",
@@ -556,7 +556,7 @@
         {
           "node_type": "item",
           "title": "Novu",
-          "description": null,
+          "description": "novuhq/novu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -565,11 +565,11 @@
             "id": 400215964,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T10:42:39Z",
-            "open_issues": 121,
+            "last_commit": "2026-10-02T16:08:03Z",
+            "open_issues": 122,
             "owner": "novuhq",
             "repo": "novu",
-            "stars": 40103,
+            "stars": 40104,
             "topics": [
               "agents",
               "communication",
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "Clickvote",
-          "description": null,
+          "description": "gitroomhq/postiz-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -602,11 +602,11 @@
             "id": 664013991,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T10:23:35Z",
-            "open_issues": 239,
+            "last_commit": "2026-10-02T22:23:52Z",
+            "open_issues": 241,
             "owner": "gitroomhq",
             "repo": "postiz-app",
-            "stars": 36614,
+            "stars": 36640,
             "topics": [
               "nextjs",
               "open-source",
@@ -625,7 +625,7 @@
         {
           "node_type": "item",
           "title": "AdonisJS",
-          "description": null,
+          "description": "adonisjs/core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -638,7 +638,7 @@
             "open_issues": 9,
             "owner": "adonisjs",
             "repo": "core",
-            "stars": 19139,
+            "stars": 19141,
             "topics": [
               "core",
               "framework",
@@ -655,7 +655,7 @@
         {
           "node_type": "item",
           "title": "Wasp",
-          "description": null,
+          "description": "wasp-lang/wasp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -664,11 +664,11 @@
             "id": 237222619,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:50:44Z",
-            "open_issues": 834,
+            "last_commit": "2026-10-02T12:58:55Z",
+            "open_issues": 837,
             "owner": "wasp-lang",
             "repo": "wasp",
-            "stars": 18754,
+            "stars": 18752,
             "topics": [
               "javascript",
               "node",
@@ -684,7 +684,7 @@
         {
           "node_type": "item",
           "title": "DocsGPT",
-          "description": null,
+          "description": "arc53/DocsGPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -693,11 +693,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:53:23Z",
-            "open_issues": 133,
+            "last_commit": "2026-10-02T20:53:52Z",
+            "open_issues": 162,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18300,
+            "stars": 18301,
             "topics": [
               "agent-builder",
               "agents",
@@ -726,7 +726,7 @@
         {
           "node_type": "item",
           "title": "Amplication",
-          "description": null,
+          "description": "amplication/amplication",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -739,7 +739,7 @@
             "open_issues": 665,
             "owner": "amplication",
             "repo": "amplication",
-            "stars": 16016,
+            "stars": 16015,
             "topics": [
               "api",
               "code-generation",
@@ -763,7 +763,7 @@
         {
           "node_type": "item",
           "title": "Formbricks",
-          "description": null,
+          "description": "formbricks/formbricks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -772,11 +772,11 @@
             "id": 500289888,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T10:52:48Z",
-            "open_issues": 188,
+            "last_commit": "2026-10-02T18:36:58Z",
+            "open_issues": 192,
             "owner": "formbricks",
             "repo": "formbricks",
-            "stars": 13048,
+            "stars": 13053,
             "topics": [
               "experience-management",
               "form",
@@ -802,7 +802,7 @@
         {
           "node_type": "item",
           "title": "Illacloud",
-          "description": null,
+          "description": "illacloud/illa-builder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -840,7 +840,7 @@
         {
           "node_type": "item",
           "title": "Hanko",
-          "description": null,
+          "description": "teamhanko/hanko",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -849,11 +849,11 @@
             "id": 469828818,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T06:51:45Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-02T11:38:07Z",
+            "open_issues": 69,
             "owner": "teamhanko",
             "repo": "hanko",
-            "stars": 9034,
+            "stars": 9033,
             "topics": [
               "2fa",
               "authentication",
@@ -876,7 +876,7 @@
         {
           "node_type": "item",
           "title": "ALVR",
-          "description": null,
+          "description": "alvr-org/ALVR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -889,7 +889,7 @@
             "open_issues": 155,
             "owner": "alvr-org",
             "repo": "ALVR",
-            "stars": 7958,
+            "stars": 7961,
             "topics": [
               "oculus-go",
               "oculus-quest",
@@ -903,7 +903,7 @@
         {
           "node_type": "item",
           "title": "ALDA",
-          "description": null,
+          "description": "alda-lang/alda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -932,7 +932,7 @@
         {
           "node_type": "item",
           "title": "Devtron",
-          "description": null,
+          "description": "devtron-labs/devtron",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -974,7 +974,7 @@
         {
           "node_type": "item",
           "title": "Aliucord",
-          "description": null,
+          "description": "Aliucord/Aliucord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
             "open_issues": 108,
             "owner": "Aliucord",
             "repo": "Aliucord",
-            "stars": 4879,
+            "stars": 4877,
             "topics": [
               "android",
               "discord",
@@ -1000,7 +1000,7 @@
         {
           "node_type": "item",
           "title": "CrowdDotDev",
-          "description": null,
+          "description": "linuxfoundation/crowd.dev",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1009,8 +1009,8 @@
             "id": 508240664,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:56:10Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-02T20:47:15Z",
+            "open_issues": 16,
             "owner": "linuxfoundation",
             "repo": "crowd.dev",
             "stars": 3368,
@@ -1025,7 +1025,7 @@
         {
           "node_type": "item",
           "title": "Catima",
-          "description": null,
+          "description": "CatimaLoyalty/Android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1034,7 +1034,7 @@
             "id": 223377955,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T02:54:44Z",
+            "last_commit": "2026-10-02T21:41:18Z",
             "open_issues": 171,
             "owner": "CatimaLoyalty",
             "repo": "Android",
@@ -1054,7 +1054,7 @@
         {
           "node_type": "item",
           "title": "Configu",
-          "description": null,
+          "description": "configu/configu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1082,7 +1082,7 @@
         {
           "node_type": "item",
           "title": "Figma Plugin Resources",
-          "description": null,
+          "description": "figma/community-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1111,7 +1111,7 @@
         {
           "node_type": "item",
           "title": "React.js - Web_App",
-          "description": null,
+          "description": "UmangDalvadi/Text-Utiles-ReactApp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1144,7 +1144,7 @@
         {
           "node_type": "item",
           "title": "React.js - Chrome_Extension",
-          "description": null,
+          "description": "UmangDalvadi/WorkLikeElon-Lolgorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1175,7 +1175,7 @@
         {
           "node_type": "item",
           "title": "app-ideas",
-          "description": null,
+          "description": "florinpop17/app-ideas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1188,7 +1188,7 @@
             "open_issues": 603,
             "owner": "florinpop17",
             "repo": "app-ideas",
-            "stars": 97910,
+            "stars": 97918,
             "topics": [
               "applications",
               "coding",
@@ -1206,7 +1206,7 @@
         {
           "node_type": "item",
           "title": "First contributions",
-          "description": null,
+          "description": "firstcontributions/first-contributions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1215,11 +1215,11 @@
             "id": 68720867,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T10:34:44Z",
+            "last_commit": "2026-10-03T03:31:24Z",
             "open_issues": 336,
             "owner": "firstcontributions",
             "repo": "first-contributions",
-            "stars": 56179,
+            "stars": 56184,
             "topics": [
               "beginner",
               "beginner-friendly",
@@ -1238,7 +1238,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest2023(fineanmol)",
-          "description": null,
+          "description": "fineanmol/Hacktoberfest2026",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1248,10 +1248,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-15T22:39:56Z",
-            "open_issues": 21,
+            "open_issues": 23,
             "owner": "fineanmol",
             "repo": "Hacktoberfest2026",
-            "stars": 2645,
+            "stars": 2647,
             "topics": [
               "digitalocean",
               "github",
@@ -1272,7 +1272,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest(ossamamehmood)",
-          "description": null,
+          "description": "ossamamehmood/Hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1285,7 +1285,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -1314,7 +1314,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest2023(ossamamehmood)",
-          "description": null,
+          "description": "ossamamehmood/Hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,7 +1327,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -1356,7 +1356,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest2023",
-          "description": null,
+          "description": "ossamamehmood/Hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1369,7 +1369,7 @@
             "open_issues": 52,
             "owner": "ossamamehmood",
             "repo": "Hacktoberfest",
-            "stars": 1334,
+            "stars": 1335,
             "topics": [
               "awesome",
               "contributions-welcome",
@@ -1398,7 +1398,7 @@
         {
           "node_type": "item",
           "title": "hacktoberfest(fineanmol)",
-          "description": null,
+          "description": "fineanmol/hacktoberfest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1408,10 +1408,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-08-24T02:26:37Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "fineanmol",
             "repo": "hacktoberfest",
-            "stars": 912,
+            "stars": 911,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -1425,7 +1425,7 @@
         {
           "node_type": "item",
           "title": "fork-commit-merge(nikohoffren)",
-          "description": null,
+          "description": "fork-commit-merge/fork-commit-merge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1435,7 +1435,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-10-02T08:49:42Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "fork-commit-merge",
             "repo": "fork-commit-merge",
             "stars": 510,
@@ -1456,7 +1456,7 @@
         {
           "node_type": "item",
           "title": "Btecky(laviii123)",
-          "description": null,
+          "description": "laviii123/Btecky",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1483,7 +1483,7 @@
         {
           "node_type": "item",
           "title": "Swags-for-Developers",
-          "description": null,
+          "description": "MrKrishnaAgarwal/Swags-for-Developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1509,7 +1509,7 @@
         {
           "node_type": "item",
           "title": "Cloudhustlers",
-          "description": null,
+          "description": "SourceFusionHub/program",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1536,7 +1536,7 @@
         {
           "node_type": "item",
           "title": "DSA_Hacktoberfest2023",
-          "description": null,
+          "description": "Saikat2407/DSA_Hacktoberfest2023",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1574,7 +1574,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest2023(Ananya singh)",
-          "description": null,
+          "description": "Ananyasingh2002/Hacktoberfest2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1599,7 +1599,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest2023(Midway91)",
-          "description": null,
+          "description": "Midway91/HactoberFest2023",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1630,7 +1630,7 @@
         {
           "node_type": "item",
           "title": "Hello-World-hacktoberfest2023",
-          "description": null,
+          "description": "arjuncvinod/Hello-World-in-Different-Languages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1659,7 +1659,7 @@
         {
           "node_type": "item",
           "title": "Web-Dev-Project-for-Hacktoberfest2023(surajsharma14)",
-          "description": null,
+          "description": "surajsharma14/Web-Dev-Project-for-Hacktoberfest2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1686,7 +1686,7 @@
         {
           "node_type": "item",
           "title": "Dev.HFest",
-          "description": null,
+          "description": "debrajrout/Hacktoberfest2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1710,7 +1710,7 @@
         {
           "node_type": "item",
           "title": "The-Hello-World-Project(H4K3R13)",
-          "description": null,
+          "description": "aarjn/The-Hello-World-Project",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1738,7 +1738,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest-2023(UmangDalvadi)",
-          "description": null,
+          "description": "UmangDalvadi/Hacktoberfest-2023",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1773,7 +1773,7 @@
         {
           "node_type": "item",
           "title": "HacktoberFest2023(Harshjot)",
-          "description": null,
+          "description": "Harsh-jot/HacktoberFest-2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1801,7 +1801,7 @@
         {
           "node_type": "item",
           "title": "PreciousServices(SyedImtiyaz-1)",
-          "description": null,
+          "description": "SyedImtiyaz-1/GetTechProjects",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1830,7 +1830,7 @@
         {
           "node_type": "item",
           "title": "Complete DBMS Guide, From Zero to Hero",
-          "description": null,
+          "description": "donnemartin/system-design-primer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1843,7 +1843,7 @@
             "open_issues": 623,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 372883,
+            "stars": 372976,
             "topics": [
               "design",
               "design-patterns",
@@ -1865,7 +1865,7 @@
         {
           "node_type": "item",
           "title": "design-resources-for-developers",
-          "description": null,
+          "description": "bradtraversy/design-resources-for-developers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1878,7 +1878,7 @@
             "open_issues": 156,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 67075,
+            "stars": 67073,
             "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
@@ -1886,7 +1886,7 @@
         {
           "node_type": "item",
           "title": "React-Interview-Questions",
-          "description": null,
+          "description": "sudheerj/reactjs-interview-questions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1895,11 +1895,11 @@
             "id": 135614069,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:43:45Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-02T15:47:34Z",
+            "open_issues": 12,
             "owner": "sudheerj",
             "repo": "reactjs-interview-questions",
-            "stars": 44837,
+            "stars": 44839,
             "topics": [
               "interview-preparation",
               "interview-questions",
@@ -1921,7 +1921,7 @@
         {
           "node_type": "item",
           "title": "awesome-datascience",
-          "description": null,
+          "description": "academic/awesome-datascience",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1930,11 +1930,11 @@
             "id": 21515044,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T08:16:33Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-02T20:20:58Z",
+            "open_issues": 11,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30100,
+            "stars": 30103,
             "topics": [
               "analytics",
               "awesome-list",
@@ -1953,7 +1953,7 @@
         {
           "node_type": "item",
           "title": "awesome-design-systems",
-          "description": null,
+          "description": "alexpate/awesome-design-systems",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1981,7 +1981,7 @@
         {
           "node_type": "item",
           "title": "Frontend Learning Kit",
-          "description": null,
+          "description": "sadanandpai/frontend-learning-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1994,7 +1994,7 @@
             "open_issues": 0,
             "owner": "sadanandpai",
             "repo": "frontend-learning-kit",
-            "stars": 4696,
+            "stars": 4695,
             "topics": [
               "angular",
               "css",
@@ -2014,7 +2014,7 @@
         {
           "node_type": "item",
           "title": "complete-web-developer-manual",
-          "description": null,
+          "description": "zero-to-mastery/complete-web-developer-manual",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2027,7 +2027,7 @@
             "open_issues": 2,
             "owner": "zero-to-mastery",
             "repo": "complete-web-developer-manual",
-            "stars": 2438,
+            "stars": 2439,
             "topics": []
           },
           "first_seen": "2026-08-28T17:18:03.515Z"
@@ -2035,7 +2035,7 @@
         {
           "node_type": "item",
           "title": "Awesome Indonesia Repo",
-          "description": null,
+          "description": "GitIndonesia/awesome-indonesia-repo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2061,7 +2061,7 @@
         {
           "node_type": "item",
           "title": "hacktoberfest-swag.com - Another Hacktoberfest swag list",
-          "description": null,
+          "description": "benbarth/hacktoberfest-swag",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2086,7 +2086,7 @@
         {
           "node_type": "item",
           "title": "indonesian NLP resources",
-          "description": null,
+          "description": "kirralabs/indonesian-NLP-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2120,7 +2120,7 @@
         {
           "node_type": "item",
           "title": "Git Tutorial in Bahasa Indonesia 2",
-          "description": null,
+          "description": "petanikode/belajar-git",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2148,7 +2148,7 @@
         {
           "node_type": "item",
           "title": "Git Tutorial in Bahasa Indonesia",
-          "description": null,
+          "description": "endymuhardin/belajarGit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2169,7 +2169,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest 2023 ZTM projects",
-          "description": null,
+          "description": "zero-to-mastery/Hacktoberfest-2023",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2194,7 +2194,7 @@
         {
           "node_type": "item",
           "title": "web-dev-resources",
-          "description": null,
+          "description": "chryz-hub/web-dev-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2223,7 +2223,7 @@
         {
           "node_type": "item",
           "title": "Hacktoberfest Tracker Mobile App",
-          "description": "github",
+          "description": "KeyboardNinjas/hacktoberfest-mobileapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2250,7 +2250,7 @@
         {
           "node_type": "item",
           "title": "React+TypeScript Cheatsheets",
-          "description": null,
+          "description": "typescript-cheatsheets/react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2263,7 +2263,7 @@
             "open_issues": 0,
             "owner": "typescript-cheatsheets",
             "repo": "react",
-            "stars": 47098,
+            "stars": 47095,
             "topics": [
               "cheatsheet",
               "guide",
@@ -2276,7 +2276,7 @@
         {
           "node_type": "item",
           "title": "V Programming Language Cheat Sheet",
-          "description": null,
+          "description": "vlang/v",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2285,11 +2285,11 @@
             "id": 169677297,
             "language": "V",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:35:31Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-02T23:29:42Z",
+            "open_issues": 36,
             "owner": "vlang",
             "repo": "v",
-            "stars": 37933,
+            "stars": 37935,
             "topics": [
               "compiler",
               "language",
@@ -2302,7 +2302,7 @@
         {
           "node_type": "item",
           "title": "Docker Cheat Sheet",
-          "description": null,
+          "description": "wsargent/docker-cheat-sheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2326,7 +2326,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Cheat Sheet",
-          "description": null,
+          "description": "dennyzhang/cheatsheet-kubernetes-A4",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2353,7 +2353,7 @@
         {
           "node_type": "item",
           "title": "Scala Cheat Sheet",
-          "description": null,
+          "description": "riiswa/Scala-CheatSheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2381,7 +2381,7 @@
         {
           "node_type": "item",
           "title": "Computer-Network-CheatSheet",
-          "description": null,
+          "description": "UmangDalvadi/CheatSheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2406,7 +2406,7 @@
         {
           "node_type": "item",
           "title": "git-CheatSheet-beginner",
-          "description": null,
+          "description": "UmangDalvadi/CheatSheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2433,7 +2433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:59:18.452Z",
+    "last_updated": "2026-10-03T04:46:48.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Hacktoberfest 2023 repositories, guides and resources",
@@ -2445,7 +2445,7 @@
       "open_issues": 30,
       "owner": "OtacilioN",
       "repo": "awesome-hacktoberfest",
-      "stars": 861,
+      "stars": 862,
       "topics": [
         "awesome",
         "awesome-list",
