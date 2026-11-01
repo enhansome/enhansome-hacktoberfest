@@ -22,15 +22,15 @@
 
 ## Repositories Supporting First-Timers
 
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,576 | 🐛 93 | 🌐 Python | 📅 2026-10-27
-* [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1,137 | 🐛 361 | 🌐 HTML | 📅 2026-10-16
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 400,648 | 🐛 90 | 🌐 Python | 📅 2026-11-01
+* [Awesome SEO tools](https://github.com/serpapi/awesome-seo-tools) ⭐ 1,139 | 🐛 364 | 🌐 HTML | 📅 2026-10-16
 * [A-Z-Python-Projects](https://github.com/Techiral/A-Z-Python-Projects)
 
 ## Repositories Coding for Beginners
 
-* [JavaScript30](https://github.com/wesbos/JavaScript30) ⭐ 29,308 | 🐛 3 | 🌐 HTML | 📅 2026-06-01
+* [JavaScript30](https://github.com/wesbos/JavaScript30) ⭐ 29,309 | 🐛 3 | 🌐 HTML | 📅 2026-06-01
 * [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) ⭐ 20,572 | 🐛 77 | 🌐 HTML | 📅 2025-12-04
-* [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects) ⭐ 2,754 | 🐛 118 | 🌐 Python | 📅 2026-06-03
+* [Python projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects) ⭐ 2,758 | 🐛 118 | 🌐 Python | 📅 2026-06-03
 * [HacktoberFest](https://github.com/reactplay/react-play) ⭐ 1,603 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-04
 * [javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) ⭐ 1,539 | 🐛 102 | 🌐 JavaScript | 📅 2026-06-25
 * [LinksHub](https://github.com/rupali-codes/LinksHub) ⭐ 1,018 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-17
@@ -45,25 +45,25 @@
 
 ## Repositories for intermediate/Advanced Coders
 
-* [Ansible](https://github.com/ansible/ansible) ⭐ 71,174 | 🐛 884 | 🌐 Python | 📅 2026-10-30
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,801 | 🐛 731 | 🌐 TypeScript | 📅 2026-10-31
-* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,588 | 🐛 2,364 | 🌐 Rust | 📅 2026-10-31
-* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 41,150 | 🐛 937 | 🌐 HTML | 📅 2026-10-31
-* [Clickvote](https://github.com/clickvote/clickvote) ⭐ 40,273 | 🐛 214 | 🌐 TypeScript | 📅 2026-10-31
-* [Novu](https://github.com/novuhq/novu) ⭐ 40,241 | 🐛 121 | 🌐 TypeScript | 📅 2026-10-31
+* [Ansible](https://github.com/ansible/ansible) ⭐ 71,186 | 🐛 886 | 🌐 Python | 📅 2026-10-30
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,821 | 🐛 730 | 🌐 TypeScript | 📅 2026-11-01
+* [Hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,596 | 🐛 2,361 | 🌐 Rust | 📅 2026-11-01
+* [Tooljet](https://github.com/ToolJet/ToolJet) ⭐ 41,161 | 🐛 937 | 🌐 HTML | 📅 2026-11-01
+* [Clickvote](https://github.com/clickvote/clickvote) ⭐ 40,485 | 🐛 213 | 🌐 TypeScript | 📅 2026-11-01
+* [Novu](https://github.com/novuhq/novu) ⭐ 40,248 | 🐛 121 | 🌐 TypeScript | 📅 2026-11-01
 * [AdonisJS](https://github.com/adonisjs/core) ⭐ 19,173 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-30
-* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,793 | 🐛 835 | 🌐 TypeScript | 📅 2026-10-31
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,350 | 🐛 102 | 🌐 Python | 📅 2026-10-30
-* [Amplication](https://github.com/amplication/amplication) ⭐ 16,010 | 🐛 666 | 🌐 TypeScript | 📅 2026-06-30
-* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,199 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-31
-* [Illacloud](https://github.com/illacloud/illa-builder) ⭐ 12,336 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-27
-* [Hanko](https://github.com/teamhanko/hanko) ⭐ 9,052 | 🐛 74 | 🌐 Go | 📅 2026-10-29
-* [ALVR](https://github.com/alvr-org/ALVR) ⭐ 8,036 | 🐛 155 | 🌐 Rust | 📅 2026-10-30
+* [Wasp](https://github.com/wasp-lang/wasp) ⭐ 18,794 | 🐛 836 | 🌐 TypeScript | 📅 2026-11-01
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,352 | 🐛 99 | 🌐 Python | 📅 2026-11-01
+* [Amplication](https://github.com/amplication/amplication) ⭐ 16,012 | 🐛 666 | 🌐 TypeScript | 📅 2026-06-30
+* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,204 | 🐛 164 | 🌐 TypeScript | 📅 2026-10-31
+* [Illacloud](https://github.com/illacloud/illa-builder) ⭐ 12,338 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27
+* [Hanko](https://github.com/teamhanko/hanko) ⭐ 9,053 | 🐛 75 | 🌐 Go | 📅 2026-10-29
+* [ALVR](https://github.com/alvr-org/ALVR) ⭐ 8,038 | 🐛 139 | 🌐 Rust | 📅 2026-11-01
 * [ALDA](https://github.com/alda-lang/alda) ⭐ 5,959 | 🐛 6 | 🌐 Go | 📅 2026-10-23
-* [Devtron](https://github.com/devtron-labs/devtron) ⭐ 5,629 | 🐛 781 | 🌐 Go | 📅 2026-10-30
-* [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,915 | 🐛 104 | 🌐 Kotlin | 📅 2026-10-14
-* [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,372 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-30
-* [Catima](https://github.com/CatimaLoyalty/Android) ⭐ 1,731 | 🐛 170 | 🌐 Java | 📅 2026-10-30
+* [Devtron](https://github.com/devtron-labs/devtron) ⭐ 5,631 | 🐛 781 | 🌐 Go | 📅 2026-10-30
+* [Aliucord](https://github.com/Aliucord/Aliucord) ⭐ 4,916 | 🐛 105 | 🌐 Kotlin | 📅 2026-11-01
+* [CrowdDotDev](https://github.com/CrowdDotDev/crowd.dev) ⭐ 3,372 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-01
+* [Catima](https://github.com/CatimaLoyalty/Android) ⭐ 1,733 | 🐛 170 | 🌐 Java | 📅 2026-11-01
 * [Configu](https://github.com/configu/configu) ⭐ 1,694 | 🐛 87 | 🌐 TypeScript | 📅 2026-02-17
 * [Figma Plugin Resources](https://github.com/figma/plugin-resources) ⭐ 860 | 🐛 17 | 📅 2026-07-17
 * [React.js - Web\_App](https://github.com/UmangDalvadi/Text-Utiles-ReactApp) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-01
@@ -71,14 +71,14 @@
 
 ## Excluded Repositories From Hacktoberfest 2023
 
-* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 98,415 | 🐛 603 | 📅 2025-10-11
-* [First contributions](https://github.com/firstcontributions/first-contributions) ⭐ 56,640 | 🐛 592 | 📅 2026-10-31
+* [app-ideas](https://github.com/florinpop17/app-ideas) ⭐ 98,437 | 🐛 603 | 📅 2025-10-11
+* [First contributions](https://github.com/firstcontributions/first-contributions) ⭐ 56,652 | 🐛 601 | 📅 2026-11-01
 * [Hacktoberfest2023(fineanmol)](https://github.com/fineanmol/Hacktoberfest2023) ⭐ 2,660 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-03
 * [Hacktoberfest(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest) ⭐ 1,339 | 🐛 52 | 📅 2025-10-06
 * [Hacktoberfest2023(ossamamehmood)](https://github.com/ossamamehmood/Hacktoberfest2023) ⭐ 1,339 | 🐛 52 | 📅 2025-10-06
 * [Hacktoberfest2023](https://github.com/ossamamehmood/Hacktoberfest2023) ⭐ 1,339 | 🐛 52 | 📅 2025-10-06
-* [hacktoberfest(fineanmol)](https://github.com/fineanmol/hacktoberfest) ⭐ 920 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-26
-* [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge) ⭐ 517 | 🐛 140 | 🌐 CSS | 📅 2026-10-31
+* [hacktoberfest(fineanmol)](https://github.com/fineanmol/hacktoberfest) ⭐ 919 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-01
+* [fork-commit-merge(nikohoffren)](https://github.com/nikohoffren/fork-commit-merge) ⭐ 517 | 🐛 141 | 🌐 CSS | 📅 2026-10-31
 * [Btecky(laviii123)](https://github.com/laviii123/Btecky) ⚠️ Archived
 * [Swags-for-Developers](https://github.com/MrKrishnaAgarwal/Swags-for-Developers) ⭐ 251 | 🐛 0 | 📅 2025-02-06
 * [Cloudhustlers](https://github.com/SourceFusionHub/program) ⚠️ Archived
@@ -96,11 +96,11 @@
 
 ## Guides and Resources
 
-* [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer) ⭐ 376,281 | 🐛 634 | 🌐 Python | 📅 2026-09-15
-* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,298 | 🐛 4 | 📅 2026-10-18
+* [Complete DBMS Guide, From Zero to Hero](https://github.com/donnemartin/system-design-primer) ⭐ 376,392 | 🐛 636 | 🌐 Python | 📅 2026-09-15
+* [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) ⭐ 67,299 | 🐛 4 | 📅 2026-10-18
 * [React-Interview-Questions](https://github.com/sudheerj/reactjs-interview-questions) ⭐ 44,913 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-13
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,254 | 🐛 9 | 📅 2026-10-27
-* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) ⭐ 26,260 | 🐛 15 | 📅 2026-10-06
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 30,262 | 🐛 11 | 📅 2026-10-31
+* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) ⭐ 26,266 | 🐛 15 | 📅 2026-10-06
 * [Frontend Learning Kit](https://github.com/sadanandpai/frontend-learning-kit) ⭐ 4,698 | 🐛 0 | 📅 2026-05-08
 * [complete-web-developer-manual](https://github.com/zero-to-mastery/complete-web-developer-manual) ⭐ 2,438 | 🐛 2 | 📅 2026-02-27
 * [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) ⭐ 769 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-10-30
@@ -135,9 +135,9 @@
 
 ## Cheat sheets
 
-* [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) ⭐ 47,080 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
-* [V Programming Language Cheat Sheet](https://github.com/vlang/v/blob/master/doc/docs.md) ⭐ 38,075 | 🐛 148 | 🌐 V | 📅 2026-10-31
-* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,558 | 🐛 7 | 📅 2024-12-31
+* [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react) ⭐ 47,085 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-09
+* [V Programming Language Cheat Sheet](https://github.com/vlang/v/blob/master/doc/docs.md) ⭐ 38,080 | 🐛 144 | 🌐 V | 📅 2026-11-01
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,557 | 🐛 7 | 📅 2024-12-31
 * [Kubernetes Cheat Sheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) ⭐ 2,176 | 🐛 0 | 🌐 Shell | 📅 2024-02-25
 * [Scala Cheat Sheet](https://github.com/riiswa/Scala-CheatSheet) ⭐ 91 | 🐛 0 | 🌐 HTML | 📅 2019-06-28
 * [Computer-Network-CheatSheet](https://github.com/UmangDalvadi/CheatSheets/blob/main/Computer-Network.txt) ⭐ 5 | 🐛 0 | 📅 2025-03-15
@@ -192,4 +192,4 @@ To the extent possible under law, [Otacilio Maia](https://github.com/OtacilioN) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
